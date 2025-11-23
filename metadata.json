@@ -1,0 +1,8 @@
+{
+  "name": "HopeConnect",
+  "description": "An emotional wellness ecosystem providing AI support, professional directories, and crisis resources.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
